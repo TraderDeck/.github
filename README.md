@@ -11,7 +11,7 @@ Explore TraderDeck's core workflows and user experience in the following demo vi
 
 ## High-Level Architecture
 
-![High-Level Architecture Diagram](./traderdeck-high-level-architecture.svg)
+![High-Level Architecture Diagram](./profile/traderdeck-high-level-architecture.svg)
 
 TraderDeck leverages AWS services (CloudFront, ALB, EC2, RDS, S3, Lambda) to deliver a robust, scalable, and secure experience. The frontend communicates with the backend via REST APIs, which orchestrate agentic analysis and interact with cloud resources.
 
