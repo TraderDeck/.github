@@ -1,4 +1,4 @@
-# TraderDeck Organization
+# TraderDeck Project
 
 ## Introduction
 TraderDeck is a modular, cloud-native platform for AI-powered stock analysis and trading insights. It is designed to help users analyze stocks, view trading picks, and interact with intelligent agents, all powered by scalable cloud infrastructure.
